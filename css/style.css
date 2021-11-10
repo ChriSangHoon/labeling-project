@@ -1,0 +1,105 @@
+@charset 'utf-8';
+
+html{
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 14px; 
+    line-height: 25px;
+}
+
+body{
+	overflow-x: hidden;
+	/*가로 스크롤이 안 생김. */
+	color: rgb(29, 29, 31);
+	letter-spacing: -0.05em;
+	background: white;
+}
+
+h3{
+    color: grey;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+
+.item{
+    position: relative;
+    flex-grow: 1;
+    border: 2px solid black;
+    height: 850px;
+    margin: 10px 10px 10px 10px;
+}
+
+.picture-nav-link{
+    position: absolute;
+    display:flex;
+    height: 80px;
+    width: 100%;
+    bottom: 0;
+    border-top: 2px solid black;
+    justify-content: space-between;
+}
+
+.picture-nav-link a{
+    text-decoration : none;
+    color: black;
+}
+
+.left-arrow, .start-button, .right-arrow{
+    font-size: 30px;
+    margin-top:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.essential, .select{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.checkbox{
+    margin-top: 10px;
+    margin-left:30px;
+}
+
+.moive-nav{
+    margin-top:20px;
+    margin-left:30px;
+}
+
+.moive-nav-detail{
+    display: inline;
+    padding-right: 10px;
+    position: absolute;
+    right: 30px;
+}
+
+.file-list{
+    margin: 50px auto;
+    border: 2px solid black;
+    height: 80%;
+    width: 90%
+}
+
+#item-1{
+    width:400px;
+}
+
+#item-3{
+    text-align: justify;
+}
+
+#picture{
+    margin-top: 150px;
+    height: 400px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align:center;
+    line-height: 400px;
+}
