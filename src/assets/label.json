@@ -1,0 +1,51 @@
+
+{
+    "labels" : 
+    [
+        {"id":"001001", "category":"1", "class":"1", "title":"기지개"},
+        {"id":"001002", "category":"1", "class":"2", "title":"마운팅"},
+        {"id":"001003", "category":"1", "class":"3", "title":"앉음"},
+        {"id":"001004", "category":"1", "class":"4", "title":"두 발로 서있기"},
+        {"id":"001005", "category":"1", "class":"5", "title":"뛰기"},
+        {"id":"001006", "category":"1", "class":"6", "title":"제자리 돌기"},
+        {"id":"001007", "category":"1", "class":"7", "title":"몸을 긁음"},
+        {"id":"001008", "category":"1", "class":"8", "title":"몸을 털기"},
+        {"id":"001009", "category":"1", "class":"9", "title":"걷기"},
+        {"id":"001010", "category":"1", "class":"10", "title":"밥을 먹음"},
+        {"id":"001011", "category":"1", "class":"11", "title":"물을 먹음"},
+        {"id":"001012", "category":"1", "class":"12", "title":"소변을 눔"},
+        {"id":"001013", "category":"1", "class":"13", "title":"대변을 봄"},
+        {"id":"001014", "category":"1", "class":"14", "title":"잠"},
+        {"id":"001015", "category":"1", "class":"15", "title":"하울링(짖음)"},
+        {"id":"001016", "category":"1", "class":"16", "title":"물건을 물어 뜯음"},
+        {"id":"001017", "category":"1", "class":"17", "title":"배를 들어내고 누움"},
+        {"id":"001018", "category":"1", "class":"18", "title":"귀를 기울임"},
+        {"id":"001019", "category":"1", "class":"19", "title":"고개를 갸우뚱함"},
+        {"id":"001020", "category":"1", "class":"20", "title":"어떤 소리에 집중함"},
+        {"id":"001021", "category":"1", "class":"21", "title":"해당사항 없음"},
+
+        {"id":"002001", "category":"2", "class":"1", "title":"코를 핥음"},
+        {"id":"002002", "category":"2", "class":"2", "title":"하품을 함"},
+        {"id":"002003", "category":"2", "class":"3", "title":"혀로 핥음"},
+        {"id":"002004", "category":"2", "class":"4", "title":"입을 벌리고 혀를 내밈"},
+    
+        {"id":"002005", "category":"2", "class":"5", "title":"귀를 뒤로 젖힘"},
+        {"id":"002006", "category":"2", "class":"6", "title":"귀를 살짝 움직임"},
+        {"id":"002007", "category":"2", "class":"7", "title":"귀를 기울임, 고개를 갸우뚱함"},
+        {"id":"002008", "category":"2", "class":"8", "title":"귀를 접음"},
+
+        {"id":"003001", "category":"3", "class":"1", "title":"앞다리 하나 들기"},
+        {"id":"003002", "category":"3", "class":"2", "title":"뒷다리 하나 들기"},
+        {"id":"003003", "category":"3", "class":"3", "title":"뒷걸음질 치기"},
+
+        {"id":"004001", "category":"4", "class":"1", "title":"꼬리 올리고 강하게 흔들기"},
+        {"id":"004002", "category":"4", "class":"2", "title":"고리 올리고 약하게 흔들기"},
+        {"id":"004003", "category":"4", "class":"3", "title":"꼬리 올리고 멈춤"},
+        {"id":"004004", "category":"4", "class":"4", "title":"꼬리 내리고 강하게 흔들기"},
+        {"id":"004005", "category":"4", "class":"5", "title":"꼬리 내리고 약하게흔들기"},
+        {"id":"004006", "category":"4", "class":"6", "title":"꼬리 내리고 멈춤"}
+    
+    
+    ],
+    "category": [{"1":"전체"}, {"2":"얼굴"}, {"3":"다리"}, {"4":"꼬리"}]
+}
